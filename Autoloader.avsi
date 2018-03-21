@@ -16,6 +16,7 @@ debugsub="avisource"}
 			}
 		}
 	}
+last
 }
 function LoadVideo(string FilePath, bool "debug")
 {
