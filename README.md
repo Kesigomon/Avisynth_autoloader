@@ -9,7 +9,7 @@ Avisynth用自動ロードスクリプト。
 ・directshowsource<br>
 
 LoadAll(string FilePath, bool "debug")<br>
-動画と音声両方を読み込みます。どちらかが存在しないと使えません。<br>
+動画と音声両方を読み込みます。動画、音声両方無いと使えません。<br>
 string FilePath = <br>ファイルのパス。<br>
 bool debug = false<br>どのプラグインで読み込んだか字幕でわかります。<br>
 
