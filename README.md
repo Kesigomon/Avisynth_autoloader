@@ -10,6 +10,6 @@ Avisynth用自動ロードプラグイン。
 
 LoadAll(string FilePath, bool "debug")<br>
 動画と音声両方が入っているファイルを読み込みます。<br>
-FilePath→ファイルのパス。<br>
-debug→どのプラグインで読み込んだか字幕でわかります。<br>
+string FilePath = <br>ファイルのパス。<br>
+bool debug = どのプラグインで読み込んだか字幕でわかります。<br>
 
