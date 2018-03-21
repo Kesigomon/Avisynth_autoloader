@@ -1,0 +1,2 @@
+# Avisynth_autoloader
+Avisynth用自動ロードプラグイン
